@@ -1,0 +1,30 @@
+.input_data {
+  margin-bottom: 2.5%;
+  width: 300px;
+  min-height: 30px;
+  border: 2px #3f009c solid;
+  border-radius: 7.5px;
+  padding: 5px 10px;
+}
+
+.annex_up_block {
+  display: flex;
+  flex-direction: column;
+}
+
+.input_data_message {
+  margin-bottom: 5%;
+  min-width: 500px;
+  max-width: 800px;
+  min-height: 250px;
+  max-height: 500px;
+  padding: 5px 10px;
+}
+
+.annex_block {
+  border: 3px #4e8300 solid;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,41 @@
+.block_inputs_textarea {
+  display: flex;
+  flex-direction: column;
+}
+.block_inputs {
+  display: flex;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.input_data {
+  margin-bottom: 5%;
+  width: 300px;
+  min-height: 30px;
+  border: 2px #3f009c solid;
+  border-radius: 7.5px;
+  padding: 5px 10px;
+}
+
+.input_data_first {
+  margin-bottom: 5%;
+  margin-top: 5%;
+  width: 300px;
+  min-height: 30px;
+  border: 2px #3f009c solid;
+  border-radius: 7.5px;
+  padding: 5px 10px;
+}
+
+.input_data_message {
+  margin-bottom: 5%;
+  min-width: 500px;
+  max-width: 800px;
+  min-height: 250px;
+  max-height: 500px;
+  padding: 5px 10px;
+}

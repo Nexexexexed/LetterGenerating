@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.main_block {
+  display: flex;
+  align-items: center;
+}
+
+.left_block {
+  margin-right: 5%;
+}
+
+.button_add {
+  padding: 12px;
+  background-color: #5d9c00;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  border: 2px #4e8300 solid;
+  margin-right: 20px;
+}
